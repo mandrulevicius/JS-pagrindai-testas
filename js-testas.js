@@ -4,6 +4,9 @@ Sugeneruokite atsitiktinį skaičių (eurų sumą) nuo 1 iki 1000.
 Pritaikykite savo sukurtą funkciją ir išspausdinkite atitikmenį
 doleriais.
 */
+function eurosToDollars() {
+  
+}
 
 /*
 2. Sukurkite funkciją, kuri paverstų dolerius į eurus.
